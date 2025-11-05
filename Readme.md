@@ -1,4 +1,4 @@
-# DIYskincareAPP-
+# DIYskincareAPP
 
 ## Overview
 
@@ -50,14 +50,4 @@ text
 6. **Access the app**
 - Open `http://localhost:3000` in your browser.
 
-## Project Structure
-
-DIYskincareAPP-/
-├── models/ # Mongoose models for Recipes, Users, etc.
-├── routes/ # Express route handlers
-├── public/ # Frontend static files (CSS, JS, images)
-├── views/ # EJS or HTML templates
-├── app.js/server.js # Main backend entry point
-├── package.json # Node.js dependencies and scripts
-└── README.md # Project documentation
 
